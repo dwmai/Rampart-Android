@@ -1,0 +1,38 @@
+ShipSiege
+data/2DTerrain.dat
+data/3DTerrain.dat
+againstShips
+scripts/
+data/SoundDB.dat
+40 24
+                                          
+                                          
+                                          
+                                          
+                                          
+B                                        R
+B                                        R
+B                                        R
+BB                                       R
+BB                                      RR
+BB                                      RR
+BBB                                    RRR
+BBB                    R              RRRR
+BBBB         B       BRRRRR        RRRRRRR
+BBBBBBB    BBBBB    BBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+BBBBBBBBBBBBBBBBBBBBBBRRRRRRRRRRRRRRRRRRRR
+4
+35 16
+24 14
+13 17 
+4 18 
